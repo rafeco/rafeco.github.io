@@ -34,9 +34,9 @@ In the Destinations view, you can see whether light advantages are enabled or di
 
 Gambit is weird. Light level does not affect PVE fighting, but does affect PVP fighting (invasions). Apparently the actual effect on PVP fights is quite small, however, so there's no need to worry much about light level.
 
-### Power Level Grinding
+### Maximizing Your Light Level Gains
 
-The good news on the power level grinding front is that all you have to do keep growing your power level is hang onto the highest light level item you obtain for every slot, even if you just throw it in your vault. That's 18 items – 5 pieces of armor per class and 3 weapons. I'll talk about the caps on light level increases a bit later on, but basically, as long as you hang onto your highest light level items and you keep doing activities that can increase your light level, your light level will go up. In other words, there's no need to ever infuse items (and use Upgrade Modules) to increase your maximum light level.
+The good news on the light level grinding front is that all you have to do keep growing your light level is hang onto the highest light level item you obtain for every slot, even if you just throw it in your vault. That's 18 items – 5 pieces of armor per class and 3 weapons. I'll talk about the caps on light level increases a bit later on, but basically, as long as you hang onto your highest light level items and you keep doing activities that can increase your light level, your light level will go up. In other words, there's no need to ever infuse items (and use Upgrade Modules) to increase your maximum light level.
 
 If you only play "Light advantages disabled" activities (like Crucible) you could theoretically reach the hard cap for the season on light level without upgrading a single item above the base level for the season.
 
