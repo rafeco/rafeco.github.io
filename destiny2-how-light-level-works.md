@@ -1,4 +1,4 @@
-# How Light Level Works in Destiny
+# How Light Level Works in Destiny 2
 
 In the first 6 months I spent playing Destiny, I found light level really confusing. Here's a simple guide to light level that will help you understand where and why light level matters, why there are actually three light levels that matter, and how to increase your light level.
 
