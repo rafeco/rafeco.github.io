@@ -63,7 +63,7 @@ The dynamic is exactly the same once you reach the Powerful cap. When you've hit
 
 Here's the bottom line when it comes growing your Light Level:
 
-* Always keep the highest light level item you've obtained for the 18 equipment slots (3 weapon types, plus 5 armor slots per class)
+* Always keep the highest light level item you've obtained for the 18 equipment slots (3 weapon types, plus 5 armor slots per class). It doesn't matter whether you equip or use them.
 * Do as many Powerful Reward activities as you can every week until you hit the Powerful Cap (1250)
 * Do as many Pinnacle Reward activities every as you can every week until you hit the Pinnacle Cap
 
