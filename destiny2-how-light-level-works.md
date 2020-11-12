@@ -12,7 +12,7 @@ Base light level is the average of the items you currently have equipped. The li
 
 ### Maximum Light Level
 
-This is the light level your character would have if they equipped all of the highest light level items from your account, whether they're in the character's inventory, in the vault, or even in the inventory of your other characters. It's calculated by averaging the highest light level value item available for each slot. It is class dependent, so if your highest Titan helm is 1200, and your highest Hunter helm is 1050, your Hunter's maximum light level for that slot will be 1050. If your highest Kinetic Weapon is 1200, that will apply to all of the characters on your account. Maximum Light Level is used as the base for calculating the light level of rewards and drops.
+This is the light level your character would have if they equipped the highest light level item the could for each slot, across your entire account. Items count toward your maximum light level whether they're in the character's inventory, in the vault, or even in the inventory of your other characters. Armor slots are class dependent, so if your highest Titan helm is 1200, and your highest Hunter helm is 1050, your Hunter's maximum light level for that slot will be 1050. If your highest light level Kinetic Weapon is 1200, that will apply to all of the characters on your account. Maximum Light Level is used as the base for calculating the light level of rewards and drops.
 
 ## Great, So What Do You Do With This Info?
 
